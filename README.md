@@ -11,7 +11,7 @@ Streamline Logistics needed to understand:
 - How order backlog and in-progress volume were impacting completion rates
 - What was driving the high rate of negative customer feedback
 
-## 🛠️ Tools Used
+##  Tools Used
 - **Microsoft Excel** — data analysis and dashboard build, including:
   - `COUNTIFS` and `DATEDIF` formulas to flag orders pending beyond SLA
   - Conditional formatting to prioritize aging orders
@@ -19,7 +19,7 @@ Streamline Logistics needed to understand:
   - Line charts and trendlines for backlog and forecast visualization
 - **PowerPoint** — executive summary and insights presentation (`Streamline_Logistics_Final.pptx`)
 
-## 📊 Key Performance Indicators
+##  Key Performance Indicators
 Category	Metric	Value	Target / Benchmark Context
 Volume	                    Total Orders              	1,500	        Baseline dataset volume
 Speed & Timing	            Avg. Delivery Time	        152 mins	    Exceeds urban delivery target thresholds
